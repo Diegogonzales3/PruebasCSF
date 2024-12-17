@@ -1,0 +1,6 @@
+@PruebasCSF_HostAddress = http://localhost:5078
+
+GET {{PruebasCSF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
